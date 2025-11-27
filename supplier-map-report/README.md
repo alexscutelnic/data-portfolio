@@ -38,3 +38,13 @@ Includes distance, services, county/region, etc.
 Optional conditional formatting to highlight nearest suppliers
 
 <hr>
+
+<h2>Data Privacy & Anonymisation</h2>
+
+All sensitive information has been fully anonymised:
+Real supplier names and addresses replaced with placeholders
+Any identifying details removed from tables and visuals
+Ensures confidentiality while demonstrating dashboard
+
+<hr>
+
