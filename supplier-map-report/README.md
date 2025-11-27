@@ -42,9 +42,9 @@ Optional conditional formatting to highlight nearest suppliers
 <h2>Data Privacy & Anonymisation</h2>
 
 All sensitive information has been fully anonymised:
-Real supplier names and addresses replaced with placeholders
-Any identifying details removed from tables and visuals
-Ensures confidentiality while demonstrating dashboard
+Real supplier names and addresses replaced with placeholders<br>
+Any identifying details removed from tables and visuals<br>
+Ensures confidentiality while demonstrating dashboard<br>
 
 <hr>
 
