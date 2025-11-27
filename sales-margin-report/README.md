@@ -50,6 +50,4 @@ Whiteout of identifying fields
 Removal of metadata
 Structural changes to prevent reconstruction of original data
 No personal or company information is present.
-Performance optimisation
 
-Month-end process automation
